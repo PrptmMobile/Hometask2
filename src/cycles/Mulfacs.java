@@ -22,3 +22,5 @@ public class Mulfacs {
         System.out.println("Answer is "+f+m);
     }
 }
+
+
